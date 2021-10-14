@@ -1,4 +1,4 @@
-## About me
+# About me
 
 I make random shit in python.
 
