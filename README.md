@@ -4,7 +4,7 @@ I make random shit in python.
 
 I only make small projects not really big games just so you know.
 
-# Disclaimer
+## Disclaimer
 
  I don't mean to offend anyone by these projects. Use them at your own risk. I take no responsibillity for damage caused, physical or digital.
 
