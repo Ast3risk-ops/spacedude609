@@ -1,8 +1,12 @@
-### Hi there 👋
-
-# About me
+## About me
 
 I make random shit in python.
+
+I only make small projects not really big games just so you know.
+
+# Disclaimer
+
+ I don't mean to offend anyone by these projects. Use them at your own risk. I take no responsibillity for damage caused, physical or digital.
 
 <!--
 **spacedude609/spacedude609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +23,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I make small Python projects and such
